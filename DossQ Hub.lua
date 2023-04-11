@@ -51,7 +51,7 @@ end)
     Section:NewButton("ห้องหุ่นเก่า", "ButtonInfo", function()
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(8.22814941, 4.25244904, 181.417908, 0.24059692, 9.14135878e-09, 0.970625103, 4.33540592e-10, 1, -9.5254773e-09, -0.970625103, 2.71260592e-09, 0.24059692)
 end)
- Section:NewButton("ออกนอกแมพ", "ButtonInfo", function()
+    Section:NewButton("ออกนอกแมพ", "ButtonInfo", function()
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-153.151611, 29.6823025, 149.698318, 0.977065742, -5.1170737e-08, -0.212937966, 4.27693863e-08, 1, -4.406089e-08, 0.212937966, 3.39431594e-08, 0.977065742)
 end)
    
